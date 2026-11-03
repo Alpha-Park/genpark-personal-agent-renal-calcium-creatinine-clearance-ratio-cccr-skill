@@ -1,0 +1,24 @@
+{
+  "name": "genpark-personal-agent-renal-calcium-creatinine-clearance-ratio-cccr-skill",
+  "version": "1.0.0",
+  "description": "Calculates Calcium-to-Creatinine Clearance Ratio (CCCR) and Fractional Excretion of Calcium (FECa%) to differentiate Familial Hypocalciuric Hypercalcemia (FHH) from Primary Hyperparathyroidism (PHPT).",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "nephrology",
+    "endocrinology",
+    "calcium",
+    "cccr",
+    "hypercalcemia",
+    "parathyroid",
+    "fhh",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
